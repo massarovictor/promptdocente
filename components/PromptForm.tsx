@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { PromptConfig, SchoolGrade, Subject, ExamType, QuestionFormat, BloomLevel } from '../types';
-import { GraduationCap, Target, FileText, Hash, ListChecks, Search, X, Plus, Lightbulb, Wrench, Microscope, Scale, Sparkles, ClipboardList, ChevronDown, Wand2 } from 'lucide-react';
+import { GraduationCap, Target, FileText, Hash, ListChecks, Search, X, Plus, Lightbulb, Wrench, Microscope, Scale, Sparkles, ClipboardList, ChevronDown, Wand2, Image as ImageIcon, Camera } from 'lucide-react';
 import { CustomSelect } from './CustomSelect';
 import { BNCC_PORTUGUESE_SKILLS, BNCC_MATHEMATICS_SKILLS, SAEB_PORTUGUESE_SKILLS, SAEB_MATHEMATICS_SKILLS, SPAECE_PORTUGUESE_SKILLS_1ANO, SPAECE_PORTUGUESE_SKILLS_2ANO, SPAECE_PORTUGUESE_SKILLS_3ANO, SPAECE_MATHEMATICS_SKILLS, SkillGroup } from '../data/skills';
 
@@ -271,14 +271,45 @@ export const PromptForm: React.FC<PromptFormProps> = ({ config, onChange }) => {
                 />
               </div>
             )}
-            <div className="flex items-end">
-              <label className="flex items-center gap-2 cursor-pointer pb-2">
+            <div className="flex items-end gap-3 pb-0.5">
+              <label className="flex items-center gap-2 cursor-pointer p-2 rounded-lg border border-border bg-card hover:bg-accent hover:border-primary/20 transition-all">
                 <input type="checkbox" className="w-4 h-4 text-primary rounded border-border focus:ring-ring"
                   checked={config.includeAnswerKey} onChange={(e) => handleChange('includeAnswerKey', e.target.checked)} />
-                <span className="text-sm text-foreground font-medium">Gabarito</span>
+                <span className="text-sm text-foreground font-medium flex items-center gap-1.5">
+                  <ListChecks className="w-3.5 h-3.5 text-primary" />
+                  Gabarito
+                </span>
+              </label>
+
+              <label className="flex items-center gap-2 cursor-pointer p-2 rounded-lg border border-border bg-card hover:bg-accent hover:border-primary/20 transition-all">
+                <input type="checkbox" className="w-4 h-4 text-primary rounded border-border focus:ring-ring"
+                  checked={config.includeImageDescription} onChange={(e) => handleChange('includeImageDescription', e.target.checked)} />
+                <span className="text-sm text-foreground font-medium flex items-center gap-1.5">
+                  <Camera className="w-3.5 h-3.5 text-primary" />
+                  Imagem
+                </span>
               </label>
             </div>
           </div>
+
+          {config.includeImageDescription && (
+            <div className="mt-4 animate-in slide-in-from-top-2 duration-200">
+              <label className={labelClass}>O que deve ter na imagem? (opcional)</label>
+              <div className="relative">
+                <ImageIcon className="absolute left-3 top-3 w-4 h-4 text-primary" />
+                <input
+                  type="text"
+                  placeholder="Ex: Gráfico de função afim, Charge sobre globalização, Mapa do Ceará..."
+                  className={inputClass + " pl-9 bg-accent/30 border-primary/20 focus:border-primary"}
+                  value={config.imageDescriptionPrompt || ''}
+                  onChange={(e) => handleChange('imageDescriptionPrompt', e.target.value)}
+                />
+              </div>
+              <p className="text-[10px] text-muted-foreground mt-1.5 px-0.5 italic">
+                A IA sugerirá uma descrição detalhada da imagem para você gerar separadamente.
+              </p>
+            </div>
+          )}
         </div>
 
         {/* Row 3: Content & Skills */}

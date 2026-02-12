@@ -58,4 +58,6 @@ export interface PromptConfig {
   alternativesCount: number;
   contextContent: string;
   includeAnswerKey: boolean;
+  includeImageDescription: boolean;
+  imageDescriptionPrompt?: string;
 }

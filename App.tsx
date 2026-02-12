@@ -18,6 +18,8 @@ const INITIAL_CONFIG: PromptConfig = {
   alternativesCount: 5,
   contextContent: '',
   includeAnswerKey: true,
+  includeImageDescription: false,
+  imageDescriptionPrompt: '',
 };
 
 const BLOOM_DESCRIPTIONS: Record<string, string> = {
@@ -243,6 +245,28 @@ export default function App() {
       }
     }
     prompt += `\n---`;
+
+    // IMAGE DESCRIPTION LOGIC
+    if (config.includeImageDescription) {
+      const imgPrompt = config.imageDescriptionPrompt?.trim();
+      const subjectHints: Record<string, string> = {
+        [Subject.MATEMATICA]: "pense em gráficos, funções, polígonos ou diagramas matemáticos.",
+        [Subject.PORTUGUES]: "pense em charges, tirinhas, quadrinhos ou cenas literárias.",
+        [Subject.OUTRA]: "pense em mapas, fotos históricas, esquemas científicos ou ilustrações."
+      };
+
+      const hint = subjectHints[config.subject] || subjectHints[Subject.OUTRA];
+
+      prompt += `
+
+---
+
+### 🎨 SOLICITAÇÃO DE IMAGEM/GRÁFICO
+**Obrigatório:** O usuário solicitou que este conteúdo contenha uma imagem ou recurso visual.
+- **Contexto da Imagem:** ${imgPrompt || "Sugira um recurso visual que ajude na compreensão da questão."}
+- **Instruções para a IA:** Descreva detalhadamente como deve ser esta imagem/gráfico para que ela possa ser gerada ou inserida. ${hint}
+- **Formato da Descrição:** Coloque a descrição da imagem em um bloco separado após a questão, com o título "**SUGESTÃO DE IMAGEM/RECURSO VISUAL**".`;
+    }
 
     return prompt;
   }, [config]);
