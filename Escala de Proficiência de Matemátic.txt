@@ -1,0 +1,367 @@
+Escala de Proficiência de Matemática – 3ª série do Ensino Médio (Saeb)
+Nível 1 – Desempenho ≥ 225 e < 250
+Os estudantes provavelmente são capazes de:
+​
+
+TRATAMENTO DE INFORMAÇÕES
+
+Associar uma tabela de até duas entradas a informações apresentadas textualmente ou em um gráfico de barras ou de linhas.
+​
+
+Nível 2 – Desempenho ≥ 250 e < 275
+Além das habilidades anteriores, os estudantes provavelmente são capazes de:
+​
+
+ESPAÇO E FORMA
+
+Reconhecer as coordenadas de pontos representados em um plano cartesiano localizados no primeiro quadrante.
+​
+
+NÚMEROS E OPERAÇÕES; ÁLGEBRA E FUNÇÕES
+
+Reconhecer os zeros de uma função dada graficamente.
+​
+
+Determinar o valor de uma função afim, dada sua lei de formação.
+​
+
+Determinar resultado utilizando o conceito de progressão aritmética.
+​
+
+TRATAMENTO DE INFORMAÇÕES
+
+Associar um gráfico de setores a dados percentuais apresentados textualmente ou em uma tabela.
+​
+
+Nível 3 – Desempenho ≥ 275 e < 300
+Além das habilidades anteriores, os estudantes provavelmente são capazes de:
+​
+
+NÚMEROS E OPERAÇÕES; ÁLGEBRA E FUNÇÕES
+
+Reconhecer o valor máximo de uma função quadrática representada graficamente.
+​
+
+Reconhecer, em um gráfico, o intervalo no qual a função assume valor máximo.
+​
+
+Determinar, por meio de proporcionalidade, o gráfico de setores que representa uma situação com dados fornecidos textualmente.
+​
+
+Determinar o quarto valor em uma relação de proporcionalidade direta a partir de três valores fornecidos em uma situação do cotidiano.
+​
+
+Determinar um valor reajustado de uma quantia a partir de seu valor inicial e do percentual de reajuste.
+​
+
+Resolver problemas utilizando operações fundamentais com números naturais.
+​
+
+Nível 4 – Desempenho ≥ 300 e < 325
+Além das habilidades anteriores, os estudantes provavelmente são capazes de:
+​
+
+GRANDEZAS E MEDIDAS
+
+Resolver problemas envolvendo área de uma região composta por retângulos a partir de medidas fornecidas em texto e figura.
+​
+
+NÚMEROS E OPERAÇÕES; ÁLGEBRA E FUNÇÕES
+
+Reconhecer o gráfico de função a partir de valores fornecidos em um texto.
+​
+
+Determinar a lei de formação de uma função linear a partir de dados fornecidos em uma tabela.
+​
+
+Determinar a solução de um sistema de duas equações lineares.
+​
+
+Determinar um termo de progressão aritmética, dada sua forma geral.
+​
+
+Determinar a probabilidade da ocorrência de um evento simples.
+​
+
+Resolver problemas utilizando proporcionalidade direta ou inversa, cujos valores devem ser obtidos a partir de operações simples.
+​
+
+Resolver problemas de contagem usando princípio multiplicativo.
+​
+
+Nível 5 – Desempenho ≥ 325 e < 350
+Além das habilidades anteriores, os estudantes provavelmente são capazes de:
+​
+
+GRANDEZAS E MEDIDAS
+
+Determinar medidas de segmentos por meio da semelhança entre dois polígonos.
+​
+
+NÚMEROS E OPERAÇÕES; ÁLGEBRA E FUNÇÕES
+
+Determinar o valor de variável dependente ou independente de uma função exponencial dada.
+​
+
+Determinar o percentual que representa um valor em relação a outro.
+​
+
+Determinar o valor de uma expressão algébrica.
+​
+
+Determinar a solução de um sistema de três equações sendo uma com uma incógnita, outra com duas e a terceira com três incógnitas.
+​
+
+Resolver problema envolvendo divisão proporcional do lucro em relação a dois investimentos iniciais diferentes.
+​
+
+Resolver problema envolvendo operações, além das fundamentais, com números naturais.
+​
+
+Resolver problema envolvendo a relação linear entre duas variáveis para a determinação de uma delas.
+​
+
+Resolver problema envolvendo probabilidade de união de eventos.
+​
+
+Avaliar o comportamento de uma função representada graficamente, quanto ao seu crescimento.
+​
+
+Nível 6 – Desempenho ≥ 350 e < 375
+Além das habilidades anteriores, os estudantes provavelmente são capazes de:
+​
+
+ESPAÇO E FORMA
+
+Reconhecer as coordenadas de pontos representados em um plano cartesiano e localizados em quadrantes diferentes do primeiro.
+​
+
+Associar um sólido geométrico simples a uma planificação usual dada.
+​
+
+Resolver problemas envolvendo Teorema de Pitágoras, para calcular a medida da hipotenusa de um triângulo pitagórico, a partir de informações textuais e figura.
+​
+
+GRANDEZAS E MEDIDAS
+
+Determinar a razão de semelhança entre as imagens de um mesmo objeto em escalas diferentes.
+​
+
+Determinar o volume de um paralelepípedo retângulo, dada sua representação espacial.
+​
+
+NÚMEROS E OPERAÇÕES; ÁLGEBRA E FUNÇÕES
+
+Determinar os zeros de uma função quadrática, a partir de sua expressão algébrica.
+​
+
+Resolver problemas de porcentagem envolvendo números racionais não inteiros.
+​
+
+Nível 7 – Desempenho ≥ 375 e < 400
+Além das habilidades anteriores, os estudantes provavelmente são capazes de:
+​
+
+ESPAÇO E FORMA
+
+Determinar a medida de um dos lados de um triângulo retângulo, por meio de razões trigonométricas, fornecendo ou não as fórmulas.
+​
+
+Determinar, com o uso do Teorema de Pitágoras, a medida de um dos catetos de um triângulo retângulo não pitagórico.
+​
+
+GRANDEZAS E MEDIDAS
+
+Determinar a área de um polígono não convexo composto por retângulos e triângulos, a partir de informações fornecidas na figura.
+​
+
+Resolver problemas por meio de semelhança de triângulos sem apoio de figura.
+​
+
+Resolver problemas envolvendo perímetros de triângulos equiláteros que compõem uma figura.
+​
+
+NÚMEROS E OPERAÇÕES; ÁLGEBRA E FUNÇÕES
+
+Reconhecer gráfico de função a partir de informações sobre sua variação descritas em um texto.
+​
+
+Reconhecer os zeros de uma função quadrática em sua forma fatorada.
+​
+
+Reconhecer gráfico de função afim a partir de sua representação algébrica.
+​
+
+Reconhecer a equação de uma reta a partir de dois de seus pontos.
+​
+
+Reconhecer as raízes de um polinômio apresentado na sua forma fatorada.
+​
+
+Determinar os pontos de máximo ou de mínimo a partir do gráfico de uma função.
+​
+
+Determinar o valor de uma expressão algébrica envolvendo módulo.
+​
+
+Determinar o ponto de interseção de duas retas.
+​
+
+Determinar a expressão algébrica que relaciona duas variáveis com valores dados em tabela ou gráfico.
+​
+
+Determinar a maior raiz de um polinômio de 2º grau.
+​
+
+Resolver problemas para obter valor de variável dependente ou independente de uma função exponencial dada.
+​
+
+Resolver problemas que envolvam uma equação de 1º grau que requeira manipulação algébrica.
+​
+
+Resolver problemas envolvendo um sistema linear, dadas duas equações a duas incógnitas.
+​
+
+Resolver problemas usando permutação.
+​
+
+Resolver problemas utilizando probabilidade, envolvendo eventos independentes.
+​
+
+Nível 8 – Desempenho ≥ 400 e < 425
+Além das habilidades anteriores, os estudantes provavelmente são capazes de:
+​
+
+ESPAÇO E FORMA
+
+Reconhecer a proporcionalidade dos elementos lineares de figuras semelhantes.
+​
+
+Determinar uma das medidas de uma figura tridimensional, utilizando o Teorema de Pitágoras.
+​
+
+Determinar a equação de uma circunferência, dados o centro e o raio.
+​
+
+Determinar a quantidade de faces, vértices e arestas de um poliedro por meio da relação de Euler.
+​
+
+Resolver problema envolvendo razões trigonométricas no triângulo retângulo, com apoio de figura.
+​
+
+Associar um prisma a uma planificação usual dada.
+​
+
+GRANDEZAS E MEDIDAS
+
+Determinar a área da superfície de uma pirâmide regular.
+​
+
+Determinar o volume de um paralelepípedo, dadas suas dimensões em unidades diferentes.
+​
+
+Determinar o volume de cilindros.
+​
+
+NÚMEROS E OPERAÇÕES; ÁLGEBRA E FUNÇÕES
+
+Reconhecer o gráfico de uma função trigonométrica da forma 
+y
+=
+\sen
+(
+x
+)
+y=\sen(x).
+​
+
+Reconhecer um sistema de equações associado a uma matriz.
+​
+
+Determinar a expressão algébrica associada a um dos trechos do gráfico de uma função definida por partes.
+​
+
+Determinar o valor máximo de uma função quadrática a partir de sua expressão algébrica e das expressões que determinam as coordenadas do vértice.
+​
+
+Determinar a distância entre dois pontos no plano cartesiano.
+​
+
+Resolver problema usando arranjo.
+​
+
+Resolver problema envolvendo a resolução de uma equação do 2º grau sendo dados seus coeficientes.
+​
+
+Interpretar o significado dos coeficientes da equação de uma reta, a partir de sua forma reduzida.
+​
+
+Nível 9 – Desempenho ≥ 425 e < 450
+Além das habilidades anteriores, os estudantes provavelmente são capazes de:
+​
+
+ESPAÇO E FORMA
+
+Reconhecer a equação que representa uma circunferência, dentre diversas equações dadas.
+​
+
+Determinar o centro e o raio de uma circunferência a partir de sua equação geral.
+​
+
+Resolver problemas envolvendo relações métricas em um triângulo retângulo que é parte de uma figura plana dada.
+​
+
+GRANDEZAS E MEDIDAS
+
+Determinar o volume de pirâmides regulares.
+​
+
+Resolver problema envolvendo áreas de círculos e polígonos.
+​
+
+Resolver problema envolvendo semelhança de triângulos com apoio de figura na qual os dois triângulos apresentam ângulos opostos pelos vértices.
+​
+
+Resolver problema envolvendo cálculo de volume de cilindro.
+​
+
+NÚMEROS E OPERAÇÕES; ÁLGEBRA E FUNÇÕES
+
+Reconhecer o gráfico de uma função exponencial do tipo 
+f
+(
+x
+)
+=
+10
+x
++
+1
+f(x)=10 
+x+1
+ .
+​
+
+Reconhecer o gráfico de uma função logarítmica dada a expressão algébrica da sua função inversa e seu gráfico.
+​
+
+Determinar a expressão algébrica correspondente a uma função exponencial, a partir de dados fornecidos em texto ou gráfico.
+​
+
+Determinar a inversa de uma função exponencial dada, representativa de uma situação do cotidiano.
+​
+
+Determinar inclinação ou coeficiente angular de retas a partir de suas equações.
+​
+
+Determinar um polinômio na forma fatorada, dadas as suas raízes.
+​
+
+Nível 10 – Desempenho ≥ 450
+Além das habilidades anteriores, os estudantes provavelmente são capazes de:
+​
+
+NÚMEROS E OPERAÇÕES; ÁLGEBRA E FUNÇÕES
+
+Determinar a solução de um sistema de três equações lineares, a três incógnitas, apresentado na forma matricial escalonada.
+​

@@ -1,0 +1,145 @@
+/* PromptDocente — Design System */
+/* Light/Dark mode using CSS custom properties */
+
+:root {
+  /* Primary */
+  --background: #f8fafc;
+  --foreground: #1e293b;
+  --primary: #6366f1;
+  --primary-foreground: #ffffff;
+
+  /* Secondary & Accent */
+  --secondary: #e5e7eb;
+  --secondary-foreground: #374151;
+  --accent: #e0e7ff;
+  --accent-foreground: #374151;
+
+  /* UI Components */
+  --card: #ffffff;
+  --card-foreground: #1e293b;
+  --popover: #ffffff;
+  --popover-foreground: #1e293b;
+  --muted: #f3f4f6;
+  --muted-foreground: #6b7280;
+
+  /* Utility */
+  --border: #d1d5db;
+  --input: #d1d5db;
+  --ring: #6366f1;
+
+  /* Status */
+  --destructive: #ef4444;
+  --destructive-foreground: #ffffff;
+
+  /* Chart */
+  --chart-1: #6366f1;
+  --chart-2: #4f46e5;
+  --chart-3: #4338ca;
+  --chart-4: #3730a3;
+  --chart-5: #312e81;
+
+  /* Sidebar */
+  --sidebar-bg: #f3f4f6;
+  --sidebar-fg: #1e293b;
+  --sidebar-primary: #6366f1;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #e0e7ff;
+  --sidebar-accent-foreground: #374151;
+  --sidebar-border: #d1d5db;
+  --sidebar-ring: #6366f1;
+
+  /* Misc */
+  --code-bg: #1e293b;
+  --code-fg: #94a3b8;
+  --success: #10b981;
+  --warning: #f59e0b;
+}
+
+.dark {
+  /* Primary */
+  --background: #0f172a;
+  --foreground: #e2e8f0;
+  --primary: #818cf8;
+  --primary-foreground: #1e1b4b;
+
+  /* Secondary & Accent */
+  --secondary: #1e293b;
+  --secondary-foreground: #cbd5e1;
+  --accent: #1e1b4b;
+  --accent-foreground: #c7d2fe;
+
+  /* UI Components */
+  --card: #1e293b;
+  --card-foreground: #e2e8f0;
+  --popover: #1e293b;
+  --popover-foreground: #e2e8f0;
+  --muted: #334155;
+  --muted-foreground: #94a3b8;
+
+  /* Utility */
+  --border: #334155;
+  --input: #334155;
+  --ring: #818cf8;
+
+  /* Status */
+  --destructive: #f87171;
+  --destructive-foreground: #1e1b4b;
+
+  /* Chart */
+  --chart-1: #818cf8;
+  --chart-2: #6366f1;
+  --chart-3: #4f46e5;
+  --chart-4: #4338ca;
+  --chart-5: #3730a3;
+
+  /* Sidebar */
+  --sidebar-bg: #1e293b;
+  --sidebar-fg: #e2e8f0;
+  --sidebar-primary: #818cf8;
+  --sidebar-primary-foreground: #1e1b4b;
+  --sidebar-accent: #1e1b4b;
+  --sidebar-accent-foreground: #c7d2fe;
+  --sidebar-border: #334155;
+  --sidebar-ring: #818cf8;
+
+  /* Misc */
+  --code-bg: #0f172a;
+  --code-fg: #94a3b8;
+  --success: #34d399;
+  --warning: #fbbf24;
+}
+
+/* Base styles */
+* {
+  border-color: var(--border);
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--background);
+  color: var(--foreground);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--muted);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted-foreground);
+}
+
+/* Selection */
+::selection {
+  background: var(--primary);
+  color: var(--primary-foreground);
+}

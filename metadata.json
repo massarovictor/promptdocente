@@ -1,0 +1,5 @@
+{
+  "name": "PromptDocente",
+  "description": "Gerador inteligente de questões educacionais para o Ensino Médio com suporte a BNCC, SAEB e SPAECE.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,122 @@
+Competência Específica 1
+
+Utilizar estratégias, conceitos e procedimentos matemáticos para interpretar situações em diversos contextos, sejam atividades cotidianas, sejam fatos das Ciências da Natureza e Humanas, ou ainda questões econômicas ou tecnológicas, divulgados por diferentes meios, de modo a consolidar uma formação científica geral.
+​
+
+(EM13MAT101) Interpretar situações econômicas, sociais e das Ciências da Natureza que envolvem a variação de duas grandezas, pela análise dos gráficos das funções representadas e das taxas de variação com ou sem apoio de tecnologias digitais.
+
+(EM13MAT102) Analisar gráficos e métodos de amostragem de pesquisas estatísticas apresentadas em relatórios divulgados por diferentes meios de comunicação, identificando, quando for o caso, inadequações que possam induzir a erros de interpretação, como escalas e amostras não apropriadas.
+
+(EM13MAT103) Interpretar e compreender o emprego de unidades de medida de diferentes grandezas, inclusive de novas unidades, como as de armazenamento de dados e de distâncias astronômicas e microscópicas, ligadas aos avanços tecnológicos, amplamente divulgadas na sociedade.
+
+(EM13MAT104) Interpretar taxas e índices de natureza socioeconômica, tais como índice de desenvolvimento humano, taxas de inflação, entre outros, investigando os processos de cálculo desses números.
+
+(EM13MAT105) Utilizar as noções de transformações isométricas (translação, reflexão, rotação e composições destas) e transformações homotéticas para analisar diferentes produções humanas como construções civis, obras de arte, entre outras.
+
+Competência Específica 2
+
+Articular conhecimentos matemáticos ao propor e/ou participar de ações para investigar desafios do mundo contemporâneo e tomar decisões éticas e socialmente responsáveis, com base na análise de problemas de urgência social, como os voltados a situações de saúde, sustentabilidade, das implicações da tecnologia no mundo do trabalho, entre outros, recorrendo a conceitos, procedimentos e linguagens próprios da Matemática.
+​
+
+(EM13MAT201) Propor ações comunitárias, como as voltadas aos locais de moradia dos estudantes dentre outras, envolvendo cálculos das medidas de área, de volume, de capacidade ou de massa, adequados às demandas da região.
+
+(EM13MAT202) Planejar e executar pesquisa amostral usando dados coletados ou de diferentes fontes sobre questões relevantes atuais, incluindo ou não apoio de recursos tecnológicos, e comunicar os resultados por meio de relatório contendo gráficos e interpretação das medidas de tendência central e das de dispersão.
+
+(EM13MAT203) Planejar e executar ações envolvendo a criação e a utilização de aplicativos, jogos (digitais ou não), planilhas para o controle de orçamento familiar, simuladores de cálculos de juros compostos, dentre outros, para aplicar conceitos matemáticos e tomar decisões.
+
+Competência Específica 3
+
+Utilizar estratégias, conceitos e procedimentos matemáticos, em seus campos – Aritmética, Álgebra, Grandezas e Medidas, Geometria, Probabilidade e Estatística –, para interpretar, construir modelos e resolver problemas em diversos contextos, analisando a plausibilidade dos resultados e a adequação das soluções propostas, de modo a construir argumentação consistente.
+​
+
+(EM13MAT301) Resolver e elaborar problemas do cotidiano, da Matemática e de outras áreas do conhecimento, que envolvem equações lineares simultâneas, usando técnicas algébricas e gráficas, incluindo ou não tecnologias digitais.
+
+(EM13MAT302) Resolver e elaborar problemas cujos modelos são as funções polinomiais de 1º e 2º graus, em contextos diversos, incluindo ou não tecnologias digitais.
+
+(EM13MAT303) Resolver e elaborar problemas envolvendo porcentagens em diversos contextos e sobre juros compostos, destacando o crescimento exponencial.
+
+(EM13MAT304) Resolver e elaborar problemas com funções exponenciais nos quais é necessário compreender e interpretar a variação das grandezas envolvidas, em contextos como o da Matemática Financeira e o do crescimento de seres vivos microscópicos, entre outros.
+
+(EM13MAT305) Resolver e elaborar problemas com funções logarítmicas nos quais é necessário compreender e interpretar a variação das grandezas envolvidas, em contextos como os de abalos sísmicos, pH, radioatividade, Matemática Financeira, entre outros.
+
+(EM13MAT306) Resolver e elaborar problemas em contextos que envolvem fenômenos periódicos reais, como ondas sonoras, ciclos menstruais, movimentos cíclicos, entre outros, e comparar suas representações com as funções seno e cosseno, no plano cartesiano, com ou sem apoio de aplicativos de álgebra e geometria.
+
+(EM13MAT307) Empregar diferentes métodos para a obtenção da medida da área de uma superfície (reconfigurações, aproximação por cortes etc.) e deduzir expressões de cálculo para aplicá-las em situações reais, como o remanejamento e a distribuição de plantações, com ou sem apoio de tecnologias digitais.
+
+(EM13MAT308) Resolver e elaborar problemas em variados contextos, envolvendo triângulos nos quais se aplicam as relações métricas ou as noções de congruência e semelhança.
+
+(EM13MAT309) Resolver e elaborar problemas que envolvem o cálculo de áreas totais e de volumes de prismas, pirâmides e corpos redondos (cilindro e cone) em situações reais, como o cálculo do gasto de material para forrações ou pinturas de objetos cujos formatos sejam composições dos sólidos estudados.
+
+(EM13MAT310) Resolver e elaborar problemas de contagem envolvendo diferentes tipos de agrupamento de elementos, por meio dos princípios multiplicativo e aditivo, recorrendo a estratégias diversas como o diagrama de árvore.
+
+(EM13MAT311) Resolver e elaborar problemas que envolvem o cálculo da probabilidade de eventos aleatórios, identificando e descrevendo o espaço amostral e realizando contagem das possibilidades.
+
+(EM13MAT312) Resolver e elaborar problemas que envolvem o cálculo de probabilidade de eventos em experimentos aleatórios sucessivos.
+
+(EM13MAT313) Resolver e elaborar problemas que envolvem medições em que se discuta o emprego de algarismos significativos e algarismos duvidosos, utilizando, quando necessário, a notação científica.
+
+(EM13MAT314) Resolver e elaborar problemas que envolvem grandezas compostas, determinadas pela razão ou pelo produto de duas outras, como velocidade, densidade demográfica, energia elétrica etc.
+
+(EM13MAT315) Reconhecer um problema algorítmico, enunciá‑lo, procurar uma solução e expressá‑la por meio de um algoritmo, com o respectivo fluxograma.
+
+(EM13MAT316) Resolver e elaborar problemas, em diferentes contextos, que envolvem cálculo e interpretação das medidas de tendência central (média, moda, mediana) e das de dispersão (amplitude, variância e desvio padrão).
+
+Competência Específica 4
+
+Compreender e utilizar, com flexibilidade e fluidez, diferentes registros de representação matemáticos (algébrico, geométrico, estatístico, computacional etc.), na busca de solução e comunicação de resultados de problemas, de modo a favorecer a construção e o desenvolvimento do raciocínio matemático.
+​
+
+(EM13MAT401) Converter representações algébricas de funções polinomiais de 1º grau para representações geométricas no plano cartesiano, distinguindo os casos nos quais o comportamento é proporcional, recorrendo ou não a softwares ou aplicativos de álgebra e geometria dinâmica.
+
+(EM13MAT402) Converter representações algébricas de funções polinomiais de 2º grau para representações geométricas no plano cartesiano, distinguindo os casos nos quais uma variável for diretamente proporcional ao quadrado da outra, recorrendo ou não a softwares ou aplicativos de álgebra e geometria dinâmica.
+
+(EM13MAT403) Comparar e analisar as representações, em plano cartesiano, das funções exponencial e logarítmica para identificar as características fundamentais (domínio, imagem, crescimento) de cada uma, com ou sem apoio de tecnologias digitais, estabelecendo relações entre elas.
+
+(EM13MAT404) Identificar as características fundamentais das funções seno e cosseno (periodicidade, domínio, imagem), por meio da comparação das representações em ciclos trigonométricos e em planos cartesianos, com ou sem apoio de tecnologias digitais.
+
+(EM13MAT405) Reconhecer funções definidas por uma ou mais sentenças (como a tabela do Imposto de Renda, contas de luz, água, gás etc.), em suas representações algébrica e gráfica, convertendo essas representações de uma para outra e identificando domínios de validade, imagem, crescimento e decrescimento.
+
+(EM13MAT406) Utilizar os conceitos básicos de uma linguagem de programação na implementação de algoritmos escritos em linguagem corrente e/ou matemática.
+
+(EM13MAT407) Interpretar e construir vistas ortogonais de uma figura espacial para representar formas tridimensionais por meio de figuras planas.
+
+(EM13MAT408) Construir e interpretar tabelas e gráficos de frequências, com base em dados obtidos em pesquisas por amostras estatísticas, incluindo ou não o uso de softwares que inter‑relacionem estatística, geometria e álgebra.
+
+(EM13MAT409) Interpretar e comparar conjuntos de dados estatísticos por meio de diferentes diagramas e gráficos, como o histograma, o de caixa (box‑plot), o de ramos e folhas, reconhecendo os mais eficientes para sua análise.
+
+Competência Específica 5
+
+Investigar e estabelecer conjecturas a respeito de diferentes conceitos e propriedades matemáticas, empregando recursos e estratégias como observação de padrões, experimentações e tecnologias digitais, identificando a necessidade, ou não, de uma demonstração cada vez mais formal na validação das referidas conjecturas.
+​
+
+(EM13MAT501) Investigar relações entre números expressos em tabelas para representá‑los no plano cartesiano, identificando padrões e criando conjecturas para generalizar e expressar algebricamente essa generalização, reconhecendo quando essa representação é de função polinomial de 1º grau.
+
+(EM13MAT502) Investigar relações entre números expressos em tabelas para representá‑los no plano cartesiano, identificando padrões e criando conjecturas para generalizar e expressar algebricamente essa generalização, reconhecendo quando essa representação é de função polinomial de 2º grau do tipo 
+y
+=
+a
+x
+2
+y=ax 
+2
+ .
+
+(EM13MAT503) Investigar pontos de máximo ou de mínimo de funções quadráticas em contextos da Matemática Financeira ou da Cinemática, entre outros.
+
+(EM13MAT504) Investigar processos de obtenção da medida do volume de prismas, pirâmides, cilindros e cones, incluindo o princípio de Cavalieri, para a obtenção das fórmulas de cálculo da medida do volume dessas figuras.
+
+(EM13MAT505) Resolver problemas sobre ladrilhamentos do plano, com ou sem apoio de aplicativos de geometria dinâmica, para conjecturar a respeito dos tipos ou composição de polígonos que podem ser utilizados, generalizando padrões observados.
+
+(EM13MAT506) Representar graficamente a variação da área e do perímetro de um polígono regular quando os comprimentos de seus lados variam, analisando e classificando as funções envolvidas.
+
+(EM13MAT507) Identificar e associar sequências numéricas (PA) a funções afins de domínios discretos para análise de propriedades, incluindo dedução de algumas fórmulas e resolução de problemas.
+
+(EM13MAT508) Identificar e associar sequências numéricas (PG) a funções exponenciais de domínios discretos para análise de propriedades, incluindo dedução de algumas fórmulas e resolução de problemas.
+
+(EM13MAT509) Investigar a deformação de ângulos e áreas provocada pelas diferentes projeções usadas em cartografia, como a cilíndrica e a cônica.
+
+(EM13MAT510) Investigar conjuntos de dados relativos ao comportamento de duas variáveis numéricas, usando tecnologias da informação, e, se apropriado, levar em conta a variação e utilizar uma reta para descrever a relação observada.
+
+(EM13MAT511) Reconhecer a existência de diferentes tipos de espaços amostrais, discretos ou não, de eventos equiprováveis ou não, e investigar as implicações no cálculo de probabilidades.
+
+(EM13MAT512) Investigar propriedades de figuras geométricas, questionando suas conjecturas por meio da busca de contraexemplos, para refutá‑las ou reconhecer a necessidade de sua demonstração para validação, como os teoremas relativos aos quadriláteros e triângulos.

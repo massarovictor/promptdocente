@@ -1,0 +1,782 @@
+Saber 1: Localizar informação explícita
+
+S01.H01: Localizar informações explícitas a partir da verificação de suas marcas tipográficas (negrito, sublinhado, aspas, números etc.) em textos verbais, pertencentes a gêneros simples ou complexos de qualquer sequência discursiva predominante.
+
+
+S01.H02: Localizar informações explícitas a partir da reprodução de ideias de um trecho ou parágrafo de textos de gêneros simples de grande circulação social.
+
+
+S01.H03: Localizar uma informação explícita a partir da reprodução de ideias de um trecho ou parágrafo em textos verbais, pertencentes a gêneros simples, predominantemente narrativos.
+
+
+S01.H04: Localizar uma informação explícita a partir da reprodução de ideias de um trecho ou parágrafo de textos de gêneros simples predominantemente descritivos.
+
+
+S01.H05: Localizar uma informação explícita a partir da reprodução de ideias de um trecho ou parágrafo em textos verbais, pertencentes a gêneros simples, da ordem do relatar.
+
+
+S01.H06: Localizar uma informação explícita a partir da reprodução de ideias de um trecho ou parágrafo em textos verbais pertencentes a gêneros simples predominantemente expositivos.
+
+
+S01.H07: Localizar informações explícitas a partir da reprodução de ideias de um trecho ou parágrafo em textos verbais, pertencentes a gêneros simples, predominantemente instrucionais/injuntivos.
+
+
+S01.H08: Localizar informações explícitas a partir da reprodução de ideias de um trecho ou parágrafo em textos verbais, pertencentes a gêneros simples, predominantemente argumentativos.
+
+
+S01.H09: Localizar informações explícitas em textos não verbais ou multissemióticos pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S01.H10: Localizar uma informação explícita a partir do sentido global de textos de gêneros simples predominantemente descritivos.
+
+
+S01.H11: Localizar uma informação explícita a partir do sentido global de textos de gêneros simples predominantemente narrativos.
+
+
+S01.H12: Localizar uma informação explícita a partir do sentido global de textos de gêneros simples da ordem do relatar.
+
+
+S01.H13: Localizar uma informação explícita a partir da reprodução de ideias de um trecho ou parágrafo em textos verbais, pertencentes a gêneros complexos, predominantemente narrativos.
+
+
+S01.H14: Localizar uma informação explícita a partir da reprodução de ideias de um trecho ou parágrafo de textos de gêneros complexos predominantemente descritivos.
+
+
+S01.H15: Localizar uma informação explícita a partir da reprodução de ideias de um trecho ou parágrafo em textos verbais, pertencentes a gêneros complexos, da ordem do relatar.
+
+
+S01.H16: Localizar uma informação explícita a partir do sentido global de textos de gêneros simples predominantemente expositivos.
+
+
+S01.H17: Localizar uma informação explícita a partir do sentido global de textos de gêneros simples predominantemente instrucionais/injuntivos.
+
+
+S01.H18: Localizar uma informação explícita a partir do sentido global de textos de gêneros simples predominantemente argumentativos.
+
+Saber 2: Inferir informação em texto verbal
+
+S02.H01: Inferir tempo, espaço ou seres em textos verbais, pertencentes a gêneros simples de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S02.H02: Inferir sentimentos ou emoções vinculadas a um trecho ou parágrafo de textos verbais pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S02.H03: Inferir a moral vinculada a uma fábula, quando não explicitada/expressa.
+
+
+S02.H04: Inferir ações de um ser retratado em textos verbais pertencentes a gêneros simples predominantemente descritivos.
+
+
+S02.H05: Inferir características físicas de um ser retratado, com base em suas atitudes, ações ou discursos (falas e/ou pensamentos) em textos verbais, pertencentes a gêneros simples predominantemente descritivos ou da ordem do relatar.
+
+
+S02.H06: Inferir ideias contraditórias, ambiguas (duplo sentido) ou paradoxais em textos verbais pertencentes a gêneros simples e/ou de grande circulação social predominantemente narrativos, descritivos ou da ordem do relatar.
+
+
+S02.H07: Inferir ações de um ser retratado em textos verbais pertencentes a gêneros simples predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S02.H08: Inferir características físicas de um ser retratado com base em suas atitudes, ações ou discursos (falas e/ou pensamentos) em textos verbais pertencentes a gêneros simples predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S02.H09: Inferir ideias contraditórias, ambiguas (duplo sentido) ou paradoxais em textos verbais pertencentes a gêneros simples e/ou de grande circulação social predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S02.H10: Inferir a causa ou a consequência decorrentes/resultantes de um fato, ação ou de um comportamento em textos verbais pertencentes a gêneros simples predominantemente narrativos, descritivos ou da ordem do relatar.
+
+
+S02.H11: Inferir características ou estados psicológicos de seres retratados com base em suas atitudes, ações ou discursos em textos verbais pertencentes a gêneros simples, predominantemente descritivos ou da ordem do relatar.
+
+
+S02.H12: Inferir uma crítica político-social vinculado a textos verbais pertencentes a gêneros simples predominantemente narrativos, descritivos ou da ordem do relatar.
+
+
+S02.H13: Inferir sentimentos ou emoções vinculadas a um trecho ou parágrafo de textos não verbais ou multissemióticos pertencentes a gêneros simples e/ou de grande circulação social, de qualquer sequência discursiva predominante.
+
+
+S02.H14: Inferir sentimentos ou emoções vinculadas a um trecho ou parágrafo de textos não verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social, de qualquer sequência discursiva predominante.
+
+
+S02.H15: Inferir ações de um ser retratado em textos verbais, pertencentes a gêneros complexos, predominantemente descritivos ou da ordem do relatar.
+
+
+S02.H16: Inferir características físicas de um ser retratado, com base em suas atitudes, ações ou discursos (falas e/ou pensamentos) em textos verbais, pertencentes a gêneros complexos, predominantemente descritivos ou da ordem do relatar.
+
+
+S02.H17: Inferir ideias contraditórias, ambiguas (duplo sentido) ou paradoxais em textos, verbais, pertencentes a gêneros complexos, predominantemente descritivos ou da ordem do relatar.
+
+
+S02.H18: Inferir ações de um ser retratado em textos verbais, pertencentes a gêneros complexos, predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S02.H19: Inferir características físicas de um ser retratado, com base em suas atitudes, ações ou discursos (falas e/ou pensamentos) em textos verbais, pertencentes a gêneros complexos, predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S02.H20: Inferir ideias contraditórias, ambíguas (duplo sentido) ou paradoxais em textos, verbais, pertencentes a gêneros complexos, predominantemente expositivos, instrucional ou argumentativos.
+
+Saber 3: Inferir o sentido de uma palavra ou expressão
+
+S03.H01: Inferir o significado figurado de uma palavra em textos verbais, pertencentes a gêneros simples de grande circulação social, predominantemente descritivos ou narrativos.
+
+
+S03.H02: Inferir o significado de expressões idiomáticas, frases feitas, bordões ou ditados populares, a partir de seus usos em textos verbais, pertencentes a gêneros simples de grande circulação social predominantemente descritivos ou narrativos.
+
+
+S03.H03: Inferir o significado figurado de uma palavra em textos multissemióticos pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S03.H04: Inferir o significado de expressões idiomáticas, frases feitas, bordões ou ditados populares, a partir de seus usos em textos multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S03.H05: Inferir o significado de gírias ou regionalismos a partir de seus usos em textos verbais pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+
+S03.H06: Inferir o significado de estrangeirismos ou neologismos a partir de seus usos em textos verbais pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+
+S03.H07: Inferir o significado de expressões idiomáticas, frases feitas, bordões ou ditados populares a partir de seus usos em textos verbais pertencentes a gêneros simples da ordem do relatar, expor, instruir e argumentar.
+
+
+S03.H08: Inferir o significado de gírias ou regionalismos a partir de seus usos, em textos multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S03.H09: Inferir o significado figurado de uma palavra em textos verbais pertencentes a gêneros simples da ordem do relatar, expor, instruir e argumentar.
+
+
+S03.H10: Inferir o significado de gírias ou regionalismos a partir de seus usos em textos verbais pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S03.H11: Inferir o significado de expressões idiomáticas, frases feitas, bordões ou ditados populares, a partir de seus usos em textos verbais, pertencentes a gêneros complexos predominantemente descritivos ou narrativos.
+
+
+S03.H12: Inferir o sentido de palavras, termos ou expressões específicas ou típicas de uma determinada área do Saber/Conhecimento em textos verbais, pertencentes a gêneros simples, de qualquer sequência discursiva predominante.
+
+
+S03.H13: Inferir o significado figurado de uma palavra em textos multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S03.H14: Inferir o significado figurado de uma palavra em textos complexos de qualquer sequência discursiva predominante.
+
+
+S03.H15: Inferir o significado de expressões idiomáticas, frases feitas, bordões ou ditados populares, a partir de seus usos em textos multissemióticos, pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+
+S03.H16: Inferir o significado de estrangeirismos ou neologismos a partir de seus usos em textos verbais, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+Saber 4: Interpretar textos não verbais e textos que articulam elementos verbais e não verbais
+
+S04.H01: Reconhecer elementos organizadores (tempo, espaço, personagens etc.), em textos não verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S04.H02: Identificar características físicas de seres retratados, em textos não verbais ou multissemióticos, pertencentes a gêneros simples de qualquer sequência discursiva, exceto os predominantemente narrativos.
+
+
+S04.H03: Identificar ações de seres retratados, em textos não verbais ou multissemióticos, pertencentes a gêneros simples de qualquer sequência discursiva, exceto os predominantemente narrativos.
+
+
+S04.H04: Compreender o sentido global, em textos não verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva, exceto os predominantemente narrativos.
+
+
+S04.H05: Reconhecer a ordem cronológica em que fatos acontecem, em textos não verbais ou multissemióticos, pertencentes a gêneros simples de qualquer sequência discursiva, exceto os predominantemente narrativos.
+
+
+S04.H06: Identificar características psicológicas ou estados emocionais de seres retratados, em textos não verbais ou multissemióticos, pertencentes a gêneros simples de qualquer sequência discursiva, exceto os predominantemente narrativos.
+
+
+S04.H07: Identificar intenções de seres retratados, em textos não verbais ou multissemióticos, pertencentes a gêneros simples de qualquer sequência discursiva, exceto os predominantemente narrativos.
+
+
+S04.H08: Compreender o sentido global com base em informações implícitas, em textos não verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S04.H09: Identificar características físicas de seres retratados em textos não verbais ou multissemióticos, pertencentes a gêneros complexos, de qualquer sequência discursiva, exceto os predominantemente narrativos.
+
+
+S04.H10: Reconhecer elementos organizadores (tempo, espaço, personagens etc.) em textos não verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S04.H11: Identificar ações de seres retratados em textos não verbais ou multissemióticos, pertencentes a gêneros complexos, de qualquer sequência discursiva, exceto os predominantemente narrativos.
+
+
+S04.H12: Reconhecer a ordem cronológica em que fatos acontecem em textos não verbais ou multissemióticos, pertencentes a gêneros complexos, de qualquer sequência discursiva, exceto os predominantemente narrativos.
+
+
+S04.H13: Identificar características psicológicas ou estados emocionais de seres retratados em textos não verbais ou multissemióticos, pertencentes a gêneros complexos, de qualquer sequência discursiva, exceto os predominantemente narrativos.
+
+
+S04.H14: Compreender o sentido global com base em informações implícitas em textos não verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+Saber 5: Identificar o tema ou assunto de um texto
+
+S05.H01: Identificar o tema ou o assunto central já sinalizados pelo título, em textos verbais pertencentes a gêneros simples ou complexo de qualquer sequência discursiva predominante.
+
+
+S05.H02: Identificar palavras-chave que sintetizam o sentido global, em textos verbais, pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+
+S05.H03: Identificar o tema ou o assunto central de textos verbais pertencentes a gêneros simples predominantemente da ordem do relatar.
+
+
+S05.H04: Identificar o tema ou o assunto central de textos não verbais ou multissemióticos pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S05.H05: Identificar o tema ou o assunto central de textos verbais pertencentes a gêneros simples predominantemente expositivos.
+
+
+S05.H06: Reconhecer o tema ou o assunto central de textos verbais pertencentes a gêneros simples predominantemente argumentativos.
+
+
+S05.H07: Identificar o tema ou assunto central de textos verbais pertencentes a gêneros simples predominantemente instrucionais/injuntivos.
+
+
+S05.H08: Identificar palavras-chave que sintetizam o sentido global em textos verbais, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S05.H09: Identificar o tema ou o assunto central de textos verbais, pertencentes a gêneros complexos predominantemente narrativos ou descritivos.
+
+
+S05.H10: Identificar o tema ou o assunto central de textos verbais, pertencentes a gêneros complexos predominantemente expositivos.
+
+
+S05.H11: Identificar o tema central de textos verbais, pertencentes a gêneros complexos predominantemente instrucionais/injuntivos.
+
+Saber 6: Distinguir fato da opinião relativa a esse fato
+
+S06.H08: Identificar marcas linguísticas (substantivo, advérbios e locuções de tempo ou lugar, verbos no pretérito perfeito, escolha vocabular etc.) que ajudam a evidenciar um fato expresso pelo enunciador, em textos verbais, pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+
+S06.H09: Identificar opiniões, pontos de vista e/ou posicionamentos divergentes em um mesmo texto verbal pertencente a gêneros simples, predominantemente narrativos, descritivos, expositivos, instrucionais e da ordem do relatar.
+
+
+S06.H10: Identificar opiniões, pontos de vista e/ou posicionamentos divergentes em um mesmo texto verbal, pertencente a gêneros simples predominantemente argumentativo.
+
+
+S06.H11: Identificar marcas linguísticas (adjetivos, advérbios de modo e dúvida, verbos na 1ª pessoa, escolha vocabular, modalização, ordem das informações no enunciado etc.) que ajudam a evidenciar uma opinião expressa pelo enunciador em textos verbais pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+
+S06.H12: Identificar opiniões, pontos de vista e/ou posicionamentos divergentes em um único texto não verbal ou multissemiótico pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S06.H13: Identificar um fato apresentado em textos verbais, pertencentes a gêneros complexos de grande circulação social em qualquer sequência discursiva.
+
+
+S06.H14: Identificar opiniões, pontos de vista e/ou posicionamentos divergentes em um mesmo texto verbal, pertencente a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S06.H15: Identificar opinião explícita em textos verbais, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S06.H16: Identificar um juízo de valor/julgamento expresso pelo enunciador sobre algo, alguém ou fato textos verbais, pertencentes a gênero simples, expositivo, injuntivo ou argumentativo.
+
+
+S06.H17: Identificar um juízo de valor/julgamento expresso pelo enunciador sobre algo, alguém ou fato textos verbais, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S06.H18: Identificar opiniões, pontos de vista e/ou posicionamentos divergentes em um único texto não verbal ou multissemiótico, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S06.H19: Identificar um fato presente em textos não verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+Saber 7: Diferenciar a informação principal das secundárias em um texto
+
+S07.H01: Identificar informação secundária expressa por uma afirmação do autor, narrador ou eu-lírico em um texto de gêneros simples de qualquer sequência discursiva predominante.
+
+
+S07.H02: Identificar informação secundária expressa por meio de uma descrição de estados, eventos, espaços, objetos ou fenômenos em textos verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S07.H03: Identificar informação principal expressa por meio da relação de um agente e seus respectivos eventos por ele desencadeados em um texto verbal de gêneros simples de qualquer sequência discursiva predominante.
+
+
+S07.H04: Identificar informação secundária expressa por meio de uma explicação, um detalhamento ou uma exemplificação relativa a estados, eventos, espaços, objetos ou fenômenos em textos verbais ou multissemióticos, pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+
+S07.H08: Identificar informação secundária expressa por meio de uma explicação, um detalhamento ou uma exemplificação de estados, eventos, espaços, objetos ou fenômenos em um texto em textos de gêneros simples de qualquer sequência discursiva predominante.
+
+
+S07.H09: Identificar informação secundária expressa por meio de um resumo exposto logo após uma sequência de fatos ou ideias ter sido apresentadas ou relatadas pelo autor, narrador ou eu-lírico de um texto de gênero simples de qualquer sequência discursiva predominante.
+
+
+S07.H10: Identificar informação principal expressa por meio de eventos ordenados em uma sequência temporal em textos de gêneros simples de qualquer sequência discursiva predominante.
+
+
+S07.H11: Identificar informação principal expressa por meio de eventos de aspecto perfectivo em textos verbais de gêneros simples de qualquer sequência discursiva predominante.
+
+
+S07.H12: Identificar informação secundária expressa por meio de eventos de aspecto imperfectivo em textos verbais, pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+
+S07.H13: Identificar informação secundária expressa por meio de uma autoparáfrase do próprio autor, narrador ou eu-lírico de um texto verbal de gêneros simples de qualquer sequência discursiva predominante.
+
+
+S07.H14: Identificar informação secundária expressa por uma afirmação do autor, narrador ou eu-lírico em um texto de gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S07.H15: Identificar informação secundária expressa por meio de uma descrição de estados, eventos, espaços, objetos ou fenômenos em textos verbais ou multissemióticos, pertencentes a gêneros complexos e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S07.H16: Identificar informação principal expressa por meio da relação de um agente e seus respectivos eventos por ele desencadeados em um texto verbal de gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S07.H17: Identificar informação secundária expressa por meio de uma explicação, um detalhamento ou uma exemplificação relativa a estados, eventos, espaços, objetos ou fenômenos em textos verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S07.H18: Identificar informação secundária expressa por uma afirmação do autor, narrador ou eu-lírico em um texto verbal pertencente a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S07.H19: Identificar informação secundária expressa por meio de uma descrição de estados, eventos, espaços, objetos ou fenômenos em textos verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S07.H20: Identificar informação principal expressa pela relação de um agente e seus respectivos eventos por ele desencadeados em textos verbais ou multissemióticos, pertencentes a gêneros complexos e/ou de grande circulação social de qualquer sequência discursiva predominante.
+
+
+S07.H21: Identificar informação secundária expressa por meio de uma explicação, um detalhamento ou uma exemplificação de estados, eventos, espaços, objetos ou fenômenos em um texto em textos de gêneros complexos de qualquer sequência discursiva predominante.
+
+Saber 9: Reconhecer gêneros discursivos
+
+S09.H06: Reconhecer gêneros simples que materializam textos não verbais ou multissemióticos de grande circulação social, de qualquer sequência discursiva predominante.
+
+
+S09.H07: Identificar o domínio/ambiente discursivo a qual pertence ou se vincula um determinado gênero que materializa textos verbais, não verbais ou multissemióticos, simples e/ou de grande circulação social.
+
+
+S09.H08: Reconhecer gêneros complexos que materializam textos verbais, predominantemente narrativos, descritivos ou da ordem do relatar.
+
+
+S09.H09: Reconhecer gêneros complexos que materializam textos verbais, predominantemente expositivos, injuntivos ou argumentativos.
+
+
+S09.H10: Identificar a sequência discursiva predominante em um determinado gênero que materializa textos verbais, não verbais ou multissemióticos, simples e/ou de grande circulação social.
+
+
+S09.H11: Identificar o domínio/ambiente discursivo a qual pertence ou se vincula um determinado gênero que materializa textos verbais, não verbais ou multissemióticos complexos de qualquer sequência discursiva predominante.
+
+
+S09.H12: Reconhecer características estruturais de um dado gênero discursivo, seja ele verbal, não verbal ou multissemiótico simples e/ou de grande circulação social.
+
+Saber 10: Identificar o propósito comunicativo em diferentes gêneros
+
+S10.H07: Identificar o propósito comunicativo de gêneros simples que materializam textos não verbais ou multissemióticos de grande circulação social.
+
+
+S10.H08: Identificar o propósito comunicativo de gêneros complexos que materializam textos verbais predominantemente descritivos ou narrativos.
+
+
+S10.H09: Identificar o propósito comunicativo de gêneros simples que materializam textos verbais, predominantemente da ordem do relatar.
+
+
+S10.H10: Identificar o propósito comunicativo de gêneros simples que materializam textos verbais, predominantemente da ordem do expor.
+
+
+S10.H11: Identificar o propósito comunicativo de gêneros simples que materializam textos verbais, predominantemente instrucionais/injuntivos e argumentativos.
+
+
+S10.H12: Identificar o propósito comunicativo de gêneros simples que materializam textos verbais, predominantemente instrucionais/injuntivos (ex.: estatutos, regulamentos, leis etc.).
+
+
+S10.H13: Identificar o propósito comunicativo de gêneros complexos que materializam textos não verbais ou multissemióticos de qualquer sequência discursiva predominante.
++2
+
+
+S10.H14: Identificar o propósito comunicativo de textos híbridos (intergenéricos), com base em suas funções/finalidades, sejam eles verbais ou multissemióticos, de gêneros simples e/ou de grande circulação social.
++1
+
+Saber 11: Reconhecer os elementos que compõem uma narrativa e o conflito gerador
+
+S11.H07: Diferenciar protagonista, antagonista, personagens secundários ou figurantes em textos verbais, pertencentes a gêneros simples, ou multissemióticos em geral, predominantemente narrativos.
+
+
+S11.H08: Identificar características psicológicas ou estados emocionais de personagens em textos verbais, pertencentes a gêneros simples, predominantemente narrativos.
+
+
+S11.H11: Associar intenções a ações particulares de determinados personagens em textos verbais, pertencentes a gêneros simples, predominantemente narrativos.
+
+
+S11.H12: Identificar o conflito gerador em textos verbais ou multissemióticos, pertencentes a gêneros simples, predominantemente narrativos.
+
+
+S11.H13: Identificar o clímax em textos verbais ou multissemióticos, pertencentes a gêneros simples, predominantemente narrativos.
+
+
+S11.H14: Reconhecer elementos organizadores (tempo, espaço, personagens, enredo etc.) em textos verbais, pertencentes a gêneros complexos, predominantemente narrativos.
+
+
+S11.H15: Reconhecer características físicas de personagens em textos verbais, pertencentes a gêneros complexos predominantemente narrativos.
+
+
+S11.H16: Identificar ações dos personagens em textos verbais, pertencentes a gêneros complexos predominantemente narrativos.
+
+
+S11.H17: Identificar marcas linguísticas que evidenciam o tipo de tempo (cronológico ou psicológico) em textos verbais de gêneros complexos predominantemente narrativos.
+
+
+S11.H18: Identificar marcas linguísticas que evidenciam o discurso narrativo (direto, indireto e indireto livre) em textos verbais, pertencentes a gêneros complexos predominantemente narrativos.
+
+
+S11.H19: Identificar marcas linguísticas que evidenciam o discurso narrativo em textos verbais, pertencentes a gêneros complexos predominantemente narrativos.
+
+
+S11.H20: Diferenciar protagonista, antagonista, personagens secundários ou figurantes em textos verbais, pertencentes a gêneros complexos ou multissemióticos em geral, predominantemente narrativos.
+
+
+S11.H21: Identificar características psicológicas ou estados emocionais de personagens em textos verbais, pertencentes a gêneros complexos predominantemente narrativos.
+
+Saber 12: Identificar semelhanças e/ou diferenças de ideias e opiniões na comparação entre textos
+
+S12.H04: Reconhecer ideias e opiniões diferentes na comparação entre textos verbais, pertencentes a gêneros diferentes, simples e predominantemente narrativos, descritos ou da ordem do relatar.
+
+
+S12.H05: Reconhecer ideias e opiniões semelhantes na comparação entre textos verbais, pertencentes a gêneros iguais, simples e predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S12.H06: Reconhecer ideias e opiniões diferentes na comparação entre textos verbais, pertencentes a gêneros iguais, simples e predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S12.H07: Reconhecer ideias e opiniões semelhantes na comparação entre textos verbais, pertencentes a gêneros diferentes, simples e predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S12.H08: Reconhecer ideias e opiniões diferentes na comparação entre textos verbais, pertencentes a gêneros diferentes, simples e predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S12.H09: Reconhecer ideias e opiniões semelhantes na comparação entre textos não verbais ou multissemióticos, pertencentes a gêneros iguais, simples e/ou de grande circulação social.
+
+
+S12.H10: Reconhecer ideias e opiniões diferentes na comparação entre textos não verbais ou multissemióticos, pertencentes a gêneros diferentes, simples e/ou de grande circulação social.
+
+
+S12.H12: Reconhecer ideias e opiniões semelhantes ou diferentes na comparação entre textos verbais e multissemióticos, pertencentes a gêneros iguais ou diferentes, simples de qualquer sequência discursiva predominante.
+
+
+S12.H13: Reconhecer ideias e opiniões diferentes na comparação entre textos verbais, pertencentes a gêneros iguais ou diferentes, complexos e predominantemente narrativos, descritos ou da ordem do relatar.
+
+Saber 13: Reconhecer diferentes formas de tratar uma informação na comparação de textos de um mesmo tema
+
+S13.H04: Reconhecer diferentes formas de tratar uma informação qualquer, na comparação de textos verbais de um mesmo tema, pertencentes a gêneros diferentes, simples e predominantemente narrativos, descritos ou da ordem do relatar.
+
+
+S13.H06: Reconhecer diferentes formas de tratar uma informação qualquer, na comparação de textos verbais de um mesmo tema, pertencentes a gêneros diferentes, simples e predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S13.H07: Reconhecer a intertextualidade temática na comparação de textos verbais, pertencentes a gêneros simples e predominantemente expositivos, injuntivos ou argumentativos.
+
+
+S13.H08: Reconhecer a intertextualidade temática, na comparação de textos não verbais ou multissemióticos, pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+
+S13.H09: Reconhecer diferentes formas de tratar uma informação qualquer, na comparação de textos verbais de um mesmo tema pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S13.H10: Reconhecer diferentes formas de tratar uma informação qualquer, na comparação de textos não verbais ou multissemióticos de um mesmo tema, pertencentes a gêneros diferentes, simples e/ou de grande circulação social.
+
+
+S13.H11: Reconhecer a intertextualidade temática na comparação de textos verbais, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S13.H12: Reconhecer diferentes formas de apresentar informações implícitas na comparação de textos verbais sobre um mesmo tema pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+Saber 14: Relações entre as partes de um texto e recursos coesivos
+
+S14.H05: Reconhecer relações entre partes de um texto estabelecidas pelo uso de advérbios, preposições ou respectivas locuções em textos verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social.
+
+
+S14.H06: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante o uso de palavras sinônimas em textos verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social.
+
+
+S14.H08: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante a relação estabelecida de hiperonímia-hiponímia entre palavras em textos verbais ou multissemióticos.
+
+
+S14.H09: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante o uso de pronomes pessoais do caso oblíquo em textos verbais ou multissemióticos.
+
+
+S14.H10: Reconhecer relações entre partes de um texto estabelecidas pela catáfora presente em textos verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social.
+
+
+S14.H11: Reconhecer relações entre partes de um texto estabelecidas pelo uso de recursos coesivos encapsuladores em textos verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social.
+
+
+S14.H12: Reconhecer relações entre partes de um texto estabelecidas pelo uso de conjunções ou locuções conjuntivas coordenativas em textos verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social.
+
+
+S14.H13: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante o uso de recursos coesivos recategorizadores.
+
+
+S14.H14: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante o uso de pronomes relativos em textos verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social.
+
+
+S14.H15: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante o uso de pronomes pessoais do caso reto em textos verbais ou multissemióticos, pertencentes a gêneros complexos.
+
+
+S14.H16: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante o uso de pronomes demonstrativos em textos verbais ou multissemióticos, pertencentes a gêneros complexos.
+
+
+S14.H17: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante o uso de pronomes possessivos em textos verbais ou multissemióticos, pertencentes a gêneros complexos.
+
+
+S14.H18: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante o uso de pronomes de tratamento em textos verbais ou multissemióticos, pertencentes a gêneros complexos.
+
+
+S14.H21: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante a elipse em textos verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S14.H22: Reconhecer relações entre partes de um texto estabelecidas pela retomada de termos, expressões ou ideias mediante a relação de estabelecida hiperonímia-hiponímia entre palavras em textos verbais ou multissemióticos, pertencentes a gêneros complexos.
+
+
+S14.H23: Reconhecer relações entre partes de um texto estabelecidas pelo uso de conjunções ou locuções conjuntivas subordinativas em textos verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social.
+
+Saber 15: Identificar a tese de um texto
+
+S15.H03: Identificar o trecho que retoma a tese na conclusão de textos verbais, pertencentes a gêneros simples, predominantemente argumentativos.
+
+
+S15.H04: Identificar a contra-tese em textos verbais, pertencentes a gêneros simples, predominantemente argumentativos.
+
+
+S15.H05: Identificar a tese principal vinculada a textos não verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social, predominantemente argumentativos.
+
+
+S15.H06: Identificar o trecho que evidencia a tese principal de textos verbais, pertencentes a gêneros complexos predominantemente argumentativos.
+
+
+S15.H07: Identificar o trecho que retoma a tese na conclusão de textos verbais, pertencentes a gêneros complexos, predominantemente argumentativos.
+
+Saber 16: Relação entre tese e argumentos
+
+S16.H03: Identificar o trecho ou marcas linguísticas que evidenciam um argumento de autoridade presente em textos verbais, pertencentes a gêneros simples, predominantemente argumentativos.
+
+
+S16.H04: Identificar o trecho ou marcas linguísticas que evidenciam um argumento de comprovação presente em textos verbais, pertencentes a gêneros simples, predominantemente argumentativos.
+
+
+S16.H05: Identificar o trecho ou marcas linguísticas que evidenciam um argumento por raciocínio lógico presente em textos verbais, pertencentes a gêneros simples, predominantemente argumentativos.
+
+
+S16.H06: Identificar a estratégia argumentativa utilizada pelo autor para embasar uma tese vinculada a textos verbais, pertencentes a gêneros simples, predominantemente argumentativos.
+
+
+S16.H07: Identificar o(s) argumento(s) que sustenta(m) uma contra-tese em textos verbais, pertencentes a gêneros simples, predominantemente argumentativos.
+
+
+S16.H08: Identificar o(s) argumento(s) que embasa(m) a tese principal vinculada a textos não verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social, predominantemente argumentativos.
+
+
+S16.H09: Reconhecer o(s) argumento(s) que sustenta(m) a tese principal vinculada a textos verbais, pertencentes a gêneros complexos predominantemente argumentativos.
+
+
+S16.H10: Identificar trecho ou marcas linguísticas que evidenciam o(s) argumento(s) que embasa(m) a tese principal vinculada a textos verbais, pertencentes a gêneros complexos predominantemente argumentativos.
+
+
+S16.H11: Identificar o trecho ou marcas linguísticas que evidenciam um argumento de autoridade presente em textos verbais, pertencentes a gêneros complexos predominantemente argumentativos.
+
+
+S16.H12: Identificar o trecho ou marcas linguísticas que evidenciam um argumento de comprovação presente em textos verbais, pertencentes a gêneros complexos predominantemente argumentativos.
+
+
+S16.H13: Identificar o trecho ou marcas linguísticas que evidenciam um argumento por raciocínio lógico presente em textos verbais, pertencentes a gêneros complexos predominantemente argumentativos.
+
+Saber 17: Relações lógico-discursivas
+
+S17.H03: Reconhecer a relação lógico-discursiva de ênfase, (re)afirmação ou dúvida marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc. em textos verbais ou multissemióticos.
+
+
+S17.H04: Reconhecer a relação lógico-discursiva de comparação marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc. em textos verbais ou multissemióticos.
+
+
+S17.H05: Reconhecer a relação lógico-discursiva de oposição, restrição ou exclusão de ideias marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc. em textos verbais ou multissemióticos.
+
+
+S17.H06: Reconhecer a relação lógico-discursiva de explicação ou causa marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc. em textos verbais ou multissemióticos.
+
+
+S17.H07: Reconhecer a relação lógico-discursiva de consequência ou efeito/desdobramento de ações e ideias marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc. em textos verbais ou multissemióticos.
+
+
+S17.H08: Reconhecer a relação lógico-discursiva de conclusão ou finalidade de uma ideia ou de um raciocínio marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc..
+
+
+S17.H09: Reconhecer a relação lógico-discursiva de condição ou proporção marcada pelo uso de conjunções que expressam essa relação em textos verbais ou multissemióticos.
+
+
+S17.H10: Reconhecer a relação lógico-discursiva de conformidade marcada pelo uso de conjunções, denotadores etc. em textos verbais ou multissemióticos.
+
+
+S17.H11: Reconhecer a relação lógico-discursiva de ênfase, (re)afirmação ou dúvida marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc. em textos verbais pertencentes a gêneros complexos.
+
+
+S17.H12: Reconhecer a relação lógico-discursiva de comparação marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc. em textos verbais pertencentes a gêneros complexos.
+
+
+S17.H13: Reconhecer a relação lógico-discursiva de oposição, restrição ou exclusão de ideias marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc. em textos verbais pertencentes a gêneros complexos.
+
+
+S17.H14: Reconhecer a relação lógico-discursiva de explicação ou causa marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc. em textos verbais pertencentes a gêneros complexos.
+
+
+S17.H15: Reconhecer a relação lógico-discursiva de conformidade marcada pelo uso de conjunções, denotadores que expressam essa relação em textos verbais pertencentes a gêneros complexos.
+
+
+S17.H16: Reconhecer a relação lógico-discursiva de consequência ou efeito/desdobramento de ações e ideias marcada pelo uso de advérbios, locuções adverbiais, conjunções, denotadores etc. em textos verbais pertencentes a gêneros complexos.
+
+Saber 18: Sentido do texto sem marcas coesivas
+
+S18.H07: Compreender o sentido do texto e suas partes sem a presença de marcas coesivas a partir da relação estabelecida entre os elementos verbais e não verbais em textos multissemióticos de gêneros simples.
+
+
+S18.H08: Compreender o sentido do texto verbal e suas partes sem a presença de marcas coesivas a partir da relação de causa e consequência em textos verbais de gênero simples.
+
+
+S18.H09: Compreender o sentido do texto verbal e suas partes sem a presença de marcas coesivas a partir de uma lógica sequencial de fatos, ações, intenções ou ideias em textos verbais pertencentes a gêneros complexos.
+
+
+S18.H10: Compreender o sentido do texto verbal e suas partes sem a presença de marcas coesivas a partir da sequência de palavras ligadas pelo mesmo campo semântico em textos verbais pertencentes a gêneros complexos.
+
+
+S18.H11: Compreender o sentido do texto e suas partes sem a presença de marcas coesivas a partir da temática central em textos verbais pertencentes a gêneros complexos.
+
+
+S18.H12: Compreender o sentido do texto verbal e suas partes sem a presença de marcas coesivas a partir de uma lógica sequencial de fatos, ações, intenções ou ideias em textos verbais pertencentes a gêneros complexos predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S18.H13: Compreender o sentido do texto verbal e suas partes sem a presença de marcas coesivas a partir da sequência de palavras ligadas pelo mesmo campo semântico em textos verbais pertencentes a gêneros complexos.
+
+
+S18.H14: Compreender o sentido do texto e suas partes sem a presença de marcas coesivas a partir da temática central em textos verbais pertencentes a gêneros simples predominantemente expositivos, instrucionais ou argumentativos.
+
+
+S18.H15: Compreender o sentido do texto e suas partes sem a presença de marcas coesivas a partir da relação estabelecida entre os elementos verbais e não verbais em textos multissemióticos pertencentes a gêneros complexos.
+
+
+S18.H16: Compreender o sentido do texto verbal e suas partes sem a presença de marcas coesivas a partir da relação de causa e consequência em textos verbais pertencentes a gênero complexos.
+
+
+S18.H17: Compreender o sentido do texto verbal e suas partes sem a presença de marcas coesivas a partir da relação de causa e consequência em textos verbais pertencentes a gênero simples predominantemente expositivos, instrucionais ou argumentativos.
+
+Saber 19: Efeito de sentido por escolha de palavras
+
+S19.H05: Compreender o efeito de sentido decorrente da escolha de palavras homônimas ou parônimas em textos verbais ou multissemióticos pertencentes a gêneros simples e/ou de grande circulação social.
+
+
+S19.H06: Compreender o efeito de sentido decorrente do uso de estrangeirismos, neologismos, gírias ou regionalismos a partir de seus usos em textos verbais ou multissemióticos pertencentes a gêneros simples.
+
+
+S19.H07: Compreender o efeito de sentido gerado pelo uso de provérbios, ditados populares, expressões idiomáticas ou frases feitas a partir do seu contexto em textos verbais pertencentes a gêneros simples.
+
+
+S19.H08: Compreender o efeito de sentido decorrente do uso de palavras, termos ou expressões específicas ou típicas de uma determinada área do Saber/Conhecimento em textos verbais ou multissemióticos de gêneros simples.
+
+
+S19.H09: Compreender o efeito de sentido decorrente da escolha de palavras, frases ou expressões conotativas em textos verbais pertencentes a gêneros complexos ou multissemióticos.
+
+
+S19.H10: Compreender o efeito de sentido decorrente da escolha de palavras polissêmicas em textos verbais pertencentes a gêneros complexos ou multissemióticos.
+
+
+S19.H11: Compreender o efeito de sentido decorrente do uso de palavras que qualificam elementos em textos verbais pertencentes a gêneros complexos ou multissemióticos.
+
+
+S19.H12: Compreender as intenções vinculadas à escolha de palavras, frases ou expressões em textos verbais ou multissemióticos pertencentes a gêneros simples e/ou de grande circulação social.
+
+
+S19.H13: Compreender o efeito de sentido decorrente da escolha de palavras homônimas ou parônimas em textos verbais ou multissemióticos pertencentes a gêneros complexos.
+
+
+S19.H14: Compreender o efeito de sentido decorrente do uso de estrangeirismos, neologismos, gírias ou regionalismos a partir de seus usos em textos verbais ou multissemióticos pertencentes a gêneros complexos.
+
+
+S19.H15: Compreender o efeito de sentido gerado pelo uso de provérbios, ditados populares, expressões idiomáticas ou frases feitas a partir do seu contexto em textos verbais pertencentes a gêneros complexos.
+
+Saber 20: Efeito de sentido por pontuação e outras notações
+
+S20.H04: Detectar o efeito de sentido decorrente do emprego da reticência para expressar continuidade, dúvida ou hesitação em textos verbais ou multissemióticos de qualquer sequência discursiva predominante.
+
+
+S20.H05: Detectar o efeito de sentido decorrente do emprego do ponto de interrogação como recurso para expressar dúvida, pergunta retórica ou reflexão em textos verbais ou multissemióticos.
+
+
+S20.H06: Perceber o uso expressivo do ponto de exclamação para realçar determinados sentidos ou transmitir determinados sentimentos e estados emocionais em textos verbais ou multissemióticos.
+
+
+S20.H07: Identificar efeitos de sentido decorrentes do uso de aspas como recurso para expressar ironia, sarcasmo, insinuação, licença poética e ética, bem como para marcar gírias ou estrangeirismos.
+
+
+S20.H08: Identificar o uso de dois-pontos para expressar explicações, enumerações e apostos ou orações apositivas em textos verbais ou multissemióticos.
+
+
+S20.H09: Reconhecer a função textual da utilização de travessões duplos, parênteses para separar orações intercaladas ou colocar em evidência uma frase, expressão, palavra etc..
+
+
+S20.H10: Identificar o efeito de sentido decorrente do uso de negrito, itálico, realce, sublinhado, cor ou de caixa alta em textos verbais ou multissemióticos de grande circulação social.
+
+
+S20.H11: Identificar problemas comunicativos, efeito de ambiguidade ou imprecisão na mensagem decorrente do uso inadequado ou da ausência do sinal de pontuação requerido.
+
+
+S20.H12: Identificar o uso do ponto final, vírgula ou dois-pontos como elementos coesivos em caso de elipse ou substituição de conectivos em textos verbais ou multissemióticos.
+
+Saber 21: Recursos estilísticos e morfossintáticos
+
+S21.H05: Reconhecer o efeito de sentido decorrente do uso de onomatopeias ou interjeições em textos não verbais ou multissemióticos.
+
+
+S21.H06: Reconhecer o efeito de sentido decorrente da repetição de vocábulos e/ou expressões em textos verbais ou multissemióticos.
+
+
+S21.H07: Compreender o efeito de sentido decorrente do uso cacofônico de recursos morfossintáticos em textos verbais ou multissemióticos.
+
+
+S21.H08: Compreender o efeito de sentido decorrente do uso das figuras de som/harmonia aliteração ou assonância em textos verbais ou multissemióticos do âmbito artístico e litero-literário.
+
+
+S21.H09: Compreender o efeito de sentido decorrente do emprego do diminutivo ou aumentativo de palavra em textos verbais ou multissemióticos.
+
+
+S21.H10: Reconhecer o efeito de sentido decorrente da repetição de vocábulos e/ou expressões em textos verbais ou multissemióticos.
+
+
+S21.H11: Compreender o efeito de sentido decorrente do uso de figuras de palavras (metáfora, metonímia, catacrese, sinestesia perífrase etc.) em textos verbais ou multissemióticos.
+
+
+S21.H13: Compreender o efeito de sentido decorrente do uso de figuras de sintaxe/construção (elipse, zeugma, silepse, inversão, pleonasmo etc.) em textos verbais ou multissemióticos.
+
+Saber 22: Efeitos de humor e ironia
+
+S22.H07: Localizar trechos ou elementos que apresentam ironia em textos verbais, não verbais ou multissemióticos, pertencentes a gêneros simples de qualquer sequência discursiva predominante.
+
+
+S22.H09: Reconhecer a finalidade da ironia ou do humor em textos verbais, não verbais ou multissemióticos, pertencentes a gêneros simples e/ou de grande circulação social.
+
+
+S22.H10: Reconhecer humor ou ironia através do uso de recursos morfossintáticos em textos verbais ou multissemióticos de qualquer sequência discursiva predominante.
+
+
+S22.H11: Reconhecer efeitos de humor em textos verbais, não verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S22.H12: Localizar trechos ou elementos que apresentam ironia em textos verbais, não verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S22.H13: Localizar trechos ou elementos que apresentam humor em textos verbais, não verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S22.H14: Reconhecer efeitos de ironia em textos verbais, não verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+
+S22.H15: Reconhecer a finalidade da ironia ou do humor em textos verbais, não verbais ou multissemióticos, pertencentes a gêneros complexos de qualquer sequência discursiva predominante.
+
+Saber 23: Níveis de linguagem e marcas linguísticas
+
+S23.H02: Identificar marcas linguísticas que evidenciam o uso da linguagem coloquial/informal/popular pelo locutor e/ou interlocutor em textos verbais.
+
+
+S23.H04: Reconhecer marcas linguísticas que evidenciam o uso da linguagem coloquial/informal/popular pelo locutor e/ou interlocutor em textos multissemióticos.
+
+
+S23.H05: Identificar marcas linguísticas que evidenciam o uso da linguagem coloquial/informal/popular pelo locutor e/ou interlocutor em textos verbais.
+
+
+S23.H06: Reconhecer marcas linguísticas que evidenciam uma função de linguagem predominante em textos verbais, pertencentes a gênero simples.
+
+
+S23.H07: Identificar marcas linguísticas que evidenciam o uso da linguagem coloquial/informal/popular pelo locutor e/ou interlocutor em textos multissemióticos.
+
+
+S23.H08: Reconhecer marcas linguísticas que evidenciam uma função de linguagem predominante em textos multissemióticos de qualquer sequência discursiva predominante
