@@ -249,10 +249,20 @@ export default function App() {
     // IMAGE DESCRIPTION LOGIC
     if (config.includeImageDescription) {
       const imgPrompt = config.imageDescriptionPrompt?.trim();
+
+      // Base Context from Selectors
+      let visualContext = `O usuário solicitou uma imagem para uma questão de **${config.subject}** (${config.grade}).\n`;
+      visualContext += `- **Conteúdo/Habilidade:** ${config.contextContent || "Não especificado"}\n`;
+      visualContext += `- **Tema Relacionado:** ${config.bnccSkills.join(', ') || "Geral"}\n`;
+
+      if (imgPrompt) {
+        visualContext += `- **Detalhes Extras do Usuário:** ${imgPrompt}\n`;
+      }
+
       const subjectHints: Record<string, string> = {
-        [Subject.MATEMATICA]: "pense em gráficos, funções, polígonos ou diagramas matemáticos.",
-        [Subject.PORTUGUES]: "pense em charges, tirinhas, quadrinhos ou cenas literárias.",
-        [Subject.OUTRA]: "pense em mapas, fotos históricas, esquemas científicos ou ilustrações."
+        [Subject.MATEMATICA]: "Priorize: Gráficos de funções, figuras geométricas planas ou espaciais, diagramas estatísticos ou representações visuais de problemas lógicos.",
+        [Subject.PORTUGUES]: "Priorize: Tiras cômicas (tirinhas), charges editoriais, capas de livros, propagandas ou cenas que ilustrem o texto motivador.",
+        [Subject.OUTRA]: "Priorize: Mapas geográficos, linhas do tempo, esquemas biológicos, experimentos científicos ou pinturas históricas.",
       };
 
       const hint = subjectHints[config.subject] || subjectHints[Subject.OUTRA];
@@ -262,10 +272,14 @@ export default function App() {
 ---
 
 ### 🎨 SOLICITAÇÃO DE IMAGEM/GRÁFICO
-**Obrigatório:** O usuário solicitou que este conteúdo contenha uma imagem ou recurso visual.
-- **Contexto da Imagem:** ${imgPrompt || "Sugira um recurso visual que ajude na compreensão da questão."}
-- **Instruções para a IA:** Descreva detalhadamente como deve ser esta imagem/gráfico para que ela possa ser gerada ou inserida. ${hint}
-- **Formato da Descrição:** Coloque a descrição da imagem em um bloco separado após a questão, com o título "**SUGESTÃO DE IMAGEM/RECURSO VISUAL**".`;
+**Obrigatório:** O usuário solicitou que este conteúdo contenha uma imagem ou recurso visual de apoio.
+- **Contexto da Questão:** ${visualContext}
+- **Diretrizes Visuais (${config.subject}):** ${hint}
+- **Sua Tarefa:**
+    1. Analise o conteúdo da questão gerada.
+    2. Descreva, com riqueza de detalhes, uma imagem que serviria perfeitamente como suporte para esta questão.
+    3. Se for Matemática, descreva os eixos, curvas ou formas. Se for Humanas/Linguagens, descreva a cena, personagens ou elementos textuais da imagem.
+- **Saída:** Coloque a descrição da imagem em um bloco separado no final, com o título "**SUGESTÃO DE IMAGEM/RECURSO VISUAL**".`;
     }
 
     return prompt;

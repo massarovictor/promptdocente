@@ -251,8 +251,8 @@ export const PromptForm: React.FC<PromptFormProps> = ({ config, onChange }) => {
             </div>
           </div>
 
-          {/* Counts row */}
-          <div className={`grid gap-4 ${isObjectiveFormat ? 'grid-cols-3' : 'grid-cols-2'}`}>
+          {/* Counts and Options row */}
+          <div className={`grid gap-4 ${isObjectiveFormat ? 'grid-cols-2 md:grid-cols-4' : 'grid-cols-1 sm:grid-cols-3'}`}>
             <div>
               <label className={labelClass}>Questões</label>
               <CustomSelect
@@ -261,6 +261,7 @@ export const PromptForm: React.FC<PromptFormProps> = ({ config, onChange }) => {
                 onChange={(n) => handleChange('questionCount', n)}
               />
             </div>
+
             {isObjectiveFormat && (
               <div>
                 <label className={labelClass}>Alternativas</label>
@@ -271,24 +272,35 @@ export const PromptForm: React.FC<PromptFormProps> = ({ config, onChange }) => {
                 />
               </div>
             )}
-            <div className="flex items-end gap-3 pb-0.5">
-              <label className="flex items-center gap-2 cursor-pointer p-2 rounded-lg border border-border bg-card hover:bg-accent hover:border-primary/20 transition-all">
-                <input type="checkbox" className="w-4 h-4 text-primary rounded border-border focus:ring-ring"
-                  checked={config.includeAnswerKey} onChange={(e) => handleChange('includeAnswerKey', e.target.checked)} />
-                <span className="text-sm text-foreground font-medium flex items-center gap-1.5">
-                  <ListChecks className="w-3.5 h-3.5 text-primary" />
-                  Gabarito
-                </span>
-              </label>
 
-              <label className="flex items-center gap-2 cursor-pointer p-2 rounded-lg border border-border bg-card hover:bg-accent hover:border-primary/20 transition-all">
-                <input type="checkbox" className="w-4 h-4 text-primary rounded border-border focus:ring-ring"
-                  checked={config.includeImageDescription} onChange={(e) => handleChange('includeImageDescription', e.target.checked)} />
-                <span className="text-sm text-foreground font-medium flex items-center gap-1.5">
-                  <Camera className="w-3.5 h-3.5 text-primary" />
-                  Imagem
-                </span>
-              </label>
+            <div>
+              <label className={labelClass}>Gabarito</label>
+              <button
+                type="button"
+                onClick={() => handleChange('includeAnswerKey', !config.includeAnswerKey)}
+                className={`w-full h-[42px] flex items-center justify-center gap-2 rounded-lg border text-sm font-medium transition-all ${config.includeAnswerKey
+                  ? 'bg-primary/10 text-primary border-primary shadow-sm'
+                  : 'bg-muted text-muted-foreground border-border hover:bg-accent'
+                  }`}
+              >
+                <ListChecks className="w-4 h-4 flex-shrink-0" />
+                <span>{config.includeAnswerKey ? 'Sim' : 'Não'}</span>
+              </button>
+            </div>
+
+            <div>
+              <label className={labelClass}>Imagem</label>
+              <button
+                type="button"
+                onClick={() => handleChange('includeImageDescription', !config.includeImageDescription)}
+                className={`w-full h-[42px] flex items-center justify-center gap-2 rounded-lg border text-sm font-medium transition-all ${config.includeImageDescription
+                  ? 'bg-primary/10 text-primary border-primary shadow-sm'
+                  : 'bg-muted text-muted-foreground border-border hover:bg-accent'
+                  }`}
+              >
+                <Camera className="w-4 h-4 flex-shrink-0" />
+                <span>{config.includeImageDescription ? 'Sim' : 'Não'}</span>
+              </button>
             </div>
           </div>
 
