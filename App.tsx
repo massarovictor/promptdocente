@@ -293,7 +293,7 @@ export default function App() {
     : config.subject || "Selecione a Disciplina";
 
   return (
-    <div className="h-screen flex flex-col bg-background text-foreground font-sans overflow-hidden">
+    <div className="min-h-screen lg:h-screen flex flex-col bg-background text-foreground font-sans lg:overflow-hidden">
       {/* Header */}
       <header className="bg-card border-b border-border shadow-sm flex-shrink-0">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
@@ -330,16 +330,16 @@ export default function App() {
       </header>
 
       {/* Main layout */}
-      <main className="flex-1 overflow-hidden">
-        <div className="h-full max-w-6xl mx-auto flex flex-col lg:flex-row gap-4 p-4 sm:p-5">
+      <main className="flex-1 lg:overflow-hidden">
+        <div className="h-auto lg:h-full max-w-6xl mx-auto flex flex-col lg:flex-row gap-4 p-4 sm:p-5">
 
           {/* Left Column: Form (scrollable) */}
-          <div className="flex-1 overflow-y-auto min-w-0 pb-4 lg:pb-0 pr-1">
+          <div className="flex-1 lg:overflow-y-auto min-w-0 pb-4 lg:pb-0 pr-1">
             <PromptForm config={config} onChange={setConfig} />
           </div>
 
           {/* Right Column: Prompt + AI Links */}
-          <div className="w-full lg:w-[380px] flex-shrink-0 flex flex-col gap-4 overflow-y-auto">
+          <div className="w-full lg:w-[380px] flex-shrink-0 flex flex-col gap-4 lg:overflow-y-auto">
 
             {/* Collapsed Prompt Preview */}
             <div className="bg-card rounded-lg shadow-sm border border-border overflow-hidden flex-shrink-0">
