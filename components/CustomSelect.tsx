@@ -45,7 +45,7 @@ export const CustomSelect: React.FC<CustomSelectProps> = ({
                 type="button"
                 onClick={() => setIsOpen(!isOpen)}
                 className={`w-full flex items-center justify-between p-2.5 bg-muted border rounded-lg text-sm text-foreground focus:ring-2 focus:ring-ring outline-none transition-all ${error ? 'border-amber-400 dark:border-amber-500/50 bg-amber-50/50 dark:bg-amber-950/10' : 'border-border hover:border-primary/30'
-                    } ${isOpen ? 'ring-2 ring-ring border-ring' : ''}`}
+                    } ${isOpen ? 'border-primary ring-1 ring-primary/20 bg-background shadow-sm' : ''}`}
             >
                 <span className={`truncate ${!selectedOption && 'text-muted-foreground'}`}>
                     {selectedOption ? selectedOption.label : placeholder}
@@ -65,8 +65,8 @@ export const CustomSelect: React.FC<CustomSelectProps> = ({
                                 setIsOpen(false);
                             }}
                             className={`w-full flex items-center justify-between px-3 py-2 text-sm transition-colors ${option.value === value
-                                    ? 'bg-primary/10 text-primary font-medium'
-                                    : 'text-foreground hover:bg-muted'
+                                ? 'bg-primary/10 text-primary font-medium'
+                                : 'text-foreground hover:bg-muted'
                                 } ${option.disabled ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer'}`}
                         >
                             <span className="truncate">{option.label}</span>
