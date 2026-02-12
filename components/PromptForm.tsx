@@ -421,10 +421,10 @@ export const PromptForm: React.FC<PromptFormProps> = ({ config, onChange }) => {
           <div>
             <label className={labelClass + " flex items-center gap-2"}>
               <FileText className="w-3.5 h-3.5 text-muted-foreground" />
-              Conteúdo Base para a IA
+              Conteúdo / Resumo do Tópico
               <span className="text-muted-foreground font-normal">(opcional)</span>
             </label>
-            <textarea placeholder="Cole aqui o conteúdo que a IA usará como referência..."
+            <textarea placeholder="Descreva brevemente o conteúdo (ex: Função Afim, Revolução Francesa)..."
               rows={2}
               className={inputClass + " resize-none"}
               value={config.contextContent}
